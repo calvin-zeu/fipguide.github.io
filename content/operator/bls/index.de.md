@@ -80,9 +80,9 @@ Eine Mitfahrt ohne Sitzplatzreservierung ist nur möglich, wenn noch Plätze fre
     reservation_possible=false
 %}}
 
-Autozüge auf den Strecken Kandersteg – Göppenstein, Brig – Iselle und Kandersteg – Iselle.
+Autozüge auf den Strecken Kandersteg – Goppenstein, Brig – Iselle und Kandersteg – Iselle.
 
-FIP ist in diesen Zügen nicht gültig, jedoch können die parallen fahrenden Züge des `RE 1` genutzt werden.
+FIP ist in diesen Zügen nicht gültig, jedoch können die parallel verkehrenden Züge des `RE 1` genutzt werden.
 
 {{% /train-category %}}
 
@@ -150,7 +150,7 @@ Für die BLS können nur für ausgewählte Verbindungen durchgehende FIP 50 Tick
 
 ### Im Zug
 
-Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben für Fahrgäste ohne Tickets.
+Im Zug ist der Kauf von FIP-Tickets nicht möglich. Bei einer Reise ohne gültigen Fahrausweis wird zusätzlich zum Fahrpreis ein Zuschlag erhoben.
 
 ## Ermäßigungen
 
@@ -163,7 +163,7 @@ Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben
 
 ### Junior-Karte für Begleitete Kinder
 
-Zusätzlich gibt es die Möglichkeit eine _Junior-Karte_ für 30 CHF zu erwerben. Diese berechtigt eigene Kinder bis einschließlich 15 Jahre zur Fahrt in Begleitung eines Elternteils. Der mitreisende Elternteil benötigt für die Fahrt eine eigene gültige Fahrkarte (z. B. FIP Freifahrtschein oder FIP 50 Ticket). Die Junior-Karte kann vor Ort an Verkaufsstellen des öffentlichen Verkehrs in der Schweiz erworben werden. Siehe SBB Website: [Junior-Karte](https://www.sbb.ch/de/angebote/junior-karte).
+Zudem gibt es die Möglichkeit, für eigene Kinder bis einschließlich 15 Jahre eine _Junior-Karte_ für 30 CHF zu erwerben. Diese berechtigt in Begleitung eines Elternteils ein Jahr zur Fahrt im öffentlichen Verkehr in der Schweiz. Der mitreisende Elternteil benötigt für die Fahrt eine eigene gültige Fahrkarte (z. B. FIP Freifahrtschein oder FIP 50 Ticket). Die Junior-Karte kann vor Ort an Verkaufsstellen des öffentlichen Verkehrs in der Schweiz erworben werden. Siehe SBB Website: [Junior-Karte](https://www.sbb.ch/de/angebote/junior-karte).
 
 ### Kinder-Tageskarte
 
